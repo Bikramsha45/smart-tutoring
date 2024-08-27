@@ -33,7 +33,7 @@ The following flowchart illustrates the basic interactions within the Decentrali
 
 ## Contract Address
 
-The contract address for the deployed `DecentralizedLMS` smart contract on the Ethereum network will be provided after deployment. For testing purposes, you can deploy the contract on a test network like Rinkeby or Goerli.
+The contract address for the deployed `DecentralizedLMS` smart contract on the Ethereum network will be provided after deployment. For testing purposes, you can deploy the contract on a test network like Rinkeby or Goerli.0x28815d2dbf8c600426a41f40b93a8849c6d4a7f3
 
 ## Future Scope
 
