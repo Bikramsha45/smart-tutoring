@@ -52,7 +52,7 @@ For further inquiries or contributions, please contact:
 
 - **Name**: Bikram Sarma
 - **Email**: Bikramsharma187.com
-- **GitHub**: www.github.com
+- **GitHub**: Bikramsha45
 
 Feel free to reach out for any questions, feedback, or collaboration opportunities!
 
