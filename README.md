@@ -2,7 +2,7 @@
 
 ---
 
-# Decentralized Learning Managemt!
+# Decentralized Learning Management!
 ent System (LMS)![images](https://github.com/user-attachments/assets/63a1f132-da02-4594-b6ab-0d2071dd004b)
 
 
