@@ -2,7 +2,7 @@
 
 ---
 
-# Decentralized Learning Managem![new-smart-bird-tutoring](https://github.com/user-attachments/assets/fa4d188e-3f8d-43dc-9c7b-82c4124481e0)
+# Decentralized Learning Managemt![new-smart-bird-tutoring](https://github.com/user-attachments/assets/fa4d188e-3f8d-43dc-9c7b-82c4124481e0)
 ent System (LMS)
 
 ## Vision
